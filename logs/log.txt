@@ -1,0 +1,7 @@
+start
+wall ahead!
+wall ahead!
+wall ahead!
+wall ahead!
+menu toggle
+menu toggle
